@@ -1,0 +1,1 @@
+print('automate met synoptic')
